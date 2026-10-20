@@ -1,0 +1,20 @@
+
+body {
+  background-color: #f4f6f9;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 1000px;
+}
+
+form {
+  background-color: white;
+  padding: 25px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px #dddddd;
+}
+
+table {
+  background-color: white;
+}
